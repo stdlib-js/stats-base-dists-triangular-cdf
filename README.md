@@ -67,7 +67,7 @@ where `a` is the lower limit, `b` is the upper limit, and `c` is the mode.
 To use in Observable,
 
 ```javascript
-cdf = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-triangular-cdf@umd/browser.js' )
+cdf = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-triangular-cdf@v0.2.2-umd/browser.js' )
 ```
 
 To vendor stdlib functionality and avoid installing dependency trees for Node.js, you can use the UMD server build:
@@ -79,7 +79,7 @@ var cdf = require( 'path/to/vendor/umd/stats-base-dists-triangular-cdf/index.js'
 To include the bundle in a webpage,
 
 ```html
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-triangular-cdf@umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-triangular-cdf@v0.2.2-umd/browser.js"></script>
 ```
 
 If no recognized module system is present, access bundle contents via the global scope:
@@ -167,7 +167,7 @@ y = mycdf( 8.0 );
 <html lang="en">
 <body>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@umd/browser.js"></script>
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-triangular-cdf@umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-triangular-cdf@v0.2.2-umd/browser.js"></script>
 <script type="text/javascript">
 (function () {
 
