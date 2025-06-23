@@ -2,6 +2,63 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2025-06-23)
+
+<section class="features">
+
+### Features
+
+-   [`17b5854`](https://github.com/stdlib-js/stdlib/commit/17b58546865fa067126bfdc11a8ae72f878cd96f) - add C implementation for `stats/base/dists/triangular/cdf` [(#4669)](https://github.com/stdlib-js/stdlib/pull/4669)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#4668](https://github.com/stdlib-js/stdlib/issues/4668)
+
+</section>
+
+<!-- /.issues -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`17b5854`](https://github.com/stdlib-js/stdlib/commit/17b58546865fa067126bfdc11a8ae72f878cd96f) - **feat:** add C implementation for `stats/base/dists/triangular/cdf` [(#4669)](https://github.com/stdlib-js/stdlib/pull/4669) _(by Prashant Kumar Yadav, Philipp Burckhardt)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Philipp Burckhardt
+-   Prashant Kumar Yadav
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-28)
